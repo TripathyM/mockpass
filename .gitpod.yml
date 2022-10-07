@@ -2,4 +2,6 @@ tasks:
   - init: npm install 
     command: SHOW_LOGIN_PAGE=true npm start
 ports:
-  - port: 5156
+  - name: Mockpass server
+    port: 5156
+    visibility: public
