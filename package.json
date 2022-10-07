@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "source .envrc && nodemon",
+    "loadenv": "direnv allow .",
+    "start": "npm run loadenv && nodemon",
     "cz": "git-cz",
     "lint": "eslint lib",
     "lint-fix": "eslint --fix lib",
