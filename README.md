@@ -1,6 +1,6 @@
 # MockPass
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/opengovsg/mockpass)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TripathyM/mockpass)
 
 A mock SingPass/CorpPass/MyInfo server for dev purposes
 
